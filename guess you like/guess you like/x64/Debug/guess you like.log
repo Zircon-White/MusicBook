@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\95127\Desktop\面向对象\guess\guess you like\FileName.cpp(62,25): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  guess you like.vcxproj -> C:\Users\95127\Desktop\面向对象\guess\guess you like\x64\Debug\guess you like.exe
